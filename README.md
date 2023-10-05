@@ -1,1 +1,1 @@
-# 3d Website (React + TypeScript + Vite)
+#3d Website (React + TypeScript + Vite)
